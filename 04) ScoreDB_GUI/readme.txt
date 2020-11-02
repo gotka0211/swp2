@@ -46,3 +46,5 @@ ScoreDB GUI
             c) amount에 정수가 아닌 수를 기입할 경우.
             a와 b의 경우는 위의 Del과 Find와 같이 처리했고, c의 경우는 ValueError가 발생하며, 결과창에 에러메세지를 출력합니다.
         역시나 마지막으로 입력칸을 초기화합니다.
+        
+커밋 내역 : https://github.com/kmu-cs-swp2-2018/class-01-gotka0211/commits/master/%EA%B3%BC%EC%A0%9C/04)ScoreDB_GUI/assignment6_20163199.py
